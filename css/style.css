@@ -11,6 +11,9 @@
 *{
     color: var(--black--);
 }
+html{
+    scroll-behavior: smooth;
+}
 body{
     font-family: "Montserrat", sans-serif;
     margin: 0;
